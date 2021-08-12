@@ -1,0 +1,251 @@
+.igs-none{
+    list-style:none;
+}
+.igs-none-1{
+    outline: none;
+}
+.igs-non-2{
+    border: none;
+}
+.igs-bot{
+    bottom: 40px;
+}
+.igs-bor-sol{
+    border-bottom: 2px solid #000000;
+}
+.igs-txt-none{
+    text-decoration:none;
+}
+.igs-txt-center{
+    text-align: center;
+}
+.igs-font-regular{
+    font-family: myriad pro regular;
+}
+.igs-raduis{
+    border-radius: 10px;
+}
+.igs-raduis-1{
+    border-radius: 20px;
+}
+.igs-raduis-2{
+    border-radius: 5px;
+}
+.igs-absol{
+    position: absolute;
+}
+.igs-relative{
+    position: relative;
+}
+.igs-left{
+    left: 13%;
+}
+.igs-left-1{
+    left: 70%;
+}
+.igs-top{
+    top:42%
+}
+.igs-siz{
+    font-size: 22px;
+}
+.igs-size-1{
+    font-size: 22px;
+}
+.igs-size-2{
+    font-size: 60px;
+}
+.igs-size-3{
+    font-size: 30px;
+}
+.igs-size-4{
+    font-size: 14px;
+}
+.igs-size-5{
+    font-size: 16px;
+}
+
+.igs-li-h{
+    line-height: 30px;
+}
+.igs-li-h-1{
+    line-height: 0px;
+}
+.igs-li-h-2{
+    line-height: 5px;
+}
+.igs-font-cal{
+    font-family:calibri;
+}
+.igs-font-bold{
+    font-weight:bold;
+}
+.igs-let-spa{
+    letter-spacing: 1px;
+}
+.igs-scale{
+    transform: scale(1.1);
+}
+.igs-translate{
+    transform: translate(-13%,-42%);
+}
+.igs-translatex{
+    transform: translateX(-70%);
+}
+.igs-size{
+    font-size: 15px;
+}
+.igs-font-roman{
+    font-family: 'Times New Roman';
+}
+.igs-font-w{
+    font-weight: 700;
+}
+.igs-w-1{
+    width:100%;
+}
+.igs-w-2{
+    width:130px;
+}
+.igs-w-3{
+    width: 80%;
+}
+.igs-w-4{
+    width: 550px;
+}
+.igs-w-5{
+    width: 300px;
+}
+.igs-w-6{
+    width: 40px;
+}
+.igs-w-7{
+    width: 100px;
+}
+.igs-h-1{
+    height:95vh;
+}
+.igs-h-2{
+    height: 42px;;
+}
+.igs-h-3{
+    height: 560px;
+}
+.igs-h-4{
+    height: 330px;
+}
+.igs-h-5{
+    height: 250px;
+}
+.igs-h-6{
+    height: 250px;
+}
+.igs-h-2{
+    height:60px;
+}
+.igs-h-7{
+    height: 30px;
+}
+.igs-back-image{
+    background-image: url("../images/arriere.jpg");
+}
+.igs-back-no-repeat{
+    background-repeat:no-repeat;
+}
+.igs-back-cover{
+    background-size:cover;
+}
+
+.igs-shadow{
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+}
+/** flexbox**/
+.igs-flex{
+    display:flex;
+}
+.igs-justify-between{
+    justify-content:space-between;
+}
+.igs-justify-evenly{
+    justify-content: space-evenly;
+}
+.igs-justify-center{
+    justify-content: center;
+}
+.igs-items-center{
+    align-items:center;
+}
+.igs-dir-col{
+    flex-direction: column;
+}
+
+/** padding et marging **/
+.igs-p-0{
+    padding: 0px 5%;
+}
+.igs-m-3{
+    margin:30px;
+}
+.igs-m-1{
+    margin: 45px 0 25px;
+}
+.igs-m-2{
+    margin: 0px 10px;
+}
+.igs-m-4{
+    margin: -7% auto 20px;
+}
+.igs-m-5{
+    margin: 50px 0px;
+}
+.igs-m-7{
+    margin: 30px auto 20px;
+}
+.igs-m-6{
+    margin: 0px 0px 20px 0px;
+}
+.igs-sol{
+    border: 2px solid #373636;
+}
+
+/** couleur **/
+
+.igs-back-color{
+    background-color:#ffffff;
+}
+.igs-back-color-1{
+    background-color:#0b0b0b;
+}
+.igs-back-color-2{
+    background-color: #262525;
+}
+.igs-color{
+    color: #505050;
+}
+.igs-color-m{
+    color: #000000;
+}
+.igs-col-a{
+    color: #6d6d6d;
+} 
+.igs-col-b{
+    color:#lalala;
+}
+.igs-col-c{
+    color:#403e3e;
+}
+.igs-col-d{
+    color: #373636;
+}
+.igs-col-e{
+    color: #ffffff;
+}
+.igs-col-f{
+    color:#3e3d3d;
+}
+.igs-col-g{
+    color: #7e7d7d;
+}
+.igs-cur{
+    cursor: pointer;
+}
